@@ -1,0 +1,422 @@
+Abaco Barb ` Mixed Spanish Breeds and Spanish Types
+Abtenauer ` Other Pure/Rare Horse(Germany)
+Abyssinian ` Other Pure/Rare Horse (Ethiopia)
+Adayev`Kirghiz ` Other Pure/Rare Pony Breeds (Mongolia)
+Aegidienberger ` Other Pure/Rare Horse (Germany)
+Akhal`Teke ` Other Pure Sport
+Albanian ` Other Pure/Rare Pony (Balkan Peninsula)
+Albino ` Color Breeds/Other Pure Stock
+Altai ` Other Pure/Rare Horse (Altai Mountains/Asia)
+Alter`Real ` Other Iberian Breeds (Portugal)
+American (Bashkir) Curly Horse ` see Bashkir Curly
+American Cream Draft ` Color Breeds/Other Pure Stock
+American Cream ` Other Pure Draft
+American Indian Horse/Pony ` Native North American Breeds
+American Mustang ` Mustangs
+American Shetland pony ` North American Pony
+American Spotted Draft ` Other Pure Draft
+American Sulphur Horse ` shows with Spanish Sulpher Horse
+American Walking Pony ` North American Pony
+Anadolu (aka Ati) ` Other Pure/Rare Pony (Turkey)
+Andalusian ` named breed class
+Andravida ` Other Pure/Rare Horse (Greece)
+Anglo`Arab ` Part Arabian
+Anglo`Kabarda ` Other Pure/Rare Horse (Russia)
+Appalachian Singlefoot ` Native North American Breeds
+Appaloosa ` named breed class
+Appendix Quarter Horse ` Quarter Horse
+Arabian ` named breed class
+Ardennes ` French draft
+Arenberg`Nordkirchen ` Other Pure/Rare Horse Breeds (German)
+Ariegeois pony ` European pony (France)
+Asian/Asiatic Wild Horse ` Primitives
+Assateague pony ` North American Pony
+Astercon pony (aka Asturian & Galician) ` European Pony (Spain)
+Asturian pony (aka Astercon & Galician) ` European Pony (Spain)
+Ati (aka Anadolu) ` Other Pure/Rare Pony (Turkey)
+Australian Brumby ` Other Pure/Rare Horse (Australia)
+Australian Pony ` Australian Pony
+Australian Stock Horse ` Other Pure Stock
+Australian Waler ` Other Pure/Rare Horse (Australia)
+Austrian Warmblood ` Other European Warmblood (Austria)
+Auxios ` French draft
+Avelignese pony ` ` European Pony (Austria)
+Azteca ` Other Iberian Breeds (Mexico)
+Baise ` see Guangxi
+Balearic` Other Pure/Rare Pony (Majorca/Spain)
+Balikun ` Other Pure/Rare Horse (China)
+Balis ` Primitives
+Baluchi ` Other Pure/Rare Horse Breeds (Pakistan)
+Ban`ei ` Other Pure/Rare Horse (Japan)
+Banker Pony (aka Shackleford) ` North American Pony (US)
+Barb ` Part Arabian
+Bardigiano pony ` European Pony (Italy)
+Barthais ` see Landais Pony
+Bashkir Curly ` Other Pure Stock
+Bashkir pony ` European Pony (Russia)
+Basotho (aka Basuto)` African Pony (South Africa)
+Basque pony (aka Pottock) ` European Pony (France/Spain)
+Basuto pony (aka Basotho)` African Pony (South Africa)
+Batak pony ` Asian Pony (Indonesia)
+Bavarian Warmblood ` German Warmblood
+Beberbeck ` Other Pure/Rare Horse Breeds (German)
+Belgian (aka Brabant) ` European draft (Belgium)
+Belgian Warmblood ` Other European Warmblood (Belgium)
+Bhutia (aka Spiti) pony ` Asian Pony (India)
+Black Forest Horse (aka Noriker) ` European draft (German)
+Boer (aka Boerperd) ` Other Pure/Rare Horse (South Africa)
+Boerperd (aka Boer) ` Other Pure/Rare Horse (South Africa)
+Bosnian pony ` European pony (former Yugoslavia)
+Boulonnais ` French draft
+Brabant (aka Belgian) ` European draft (Belgian)
+Brandenburger ` German Warmblood
+Brazilian Sporthorse ` Other Pure/Mixed Sport Horse Breeds (Brazil)
+Breton ` French draft
+Brumby ` see Australian Brumby
+Buckskin ` Color Breeds/Mixed Stock (when shown as a "registered" type)
+Budyonny ` Other European Warmblood (Russia)
+Buluchi ` Other Pure/Rare Horse (Pakistan)
+Burmese pony (aka Shan) ` Asian Pony (Burma)
+Burros ` Primitives
+Byelorussian Harness Horse ` Carriage & Driving breeds (Belarus)
+Calabrese ` Other Pure/Rare Horse (Italy)
+Camargue pony ` European pony (France)
+Camarillo White Horse ` Native North American Breeds
+Campolina ` Other Pure/Rare Horse
+Canadian Cutting Horse ` Native North American Breeds
+Canadian Horse ` Native North American Breeds
+Canadian Pacer ` Harness Racing Breeds
+Carolina Marsh Tacky ` Native North American Breeds
+Carpathian pony (aka Hucul) ` European Pony (Poland)
+Carthusian (aka Cartujano) ` Other Iberian Breeds (Spain)
+Cartujano (aka Carthusian) ` Other Iberian Breeds (Spain)
+Caspian pony ` European pony (Iran)
+Castilian ` Other Iberian Breeds (Iberian Peninsula)
+Cayuse (Indian Pony) ` Native North American Breeds
+Cerbat ` Other Pure/Rare Horse Breeds (North America)
+Cheju` Other Pure/Rare Pony (Korea)
+Chicksaw (Indian Pony) ` Native North American Breeds
+Chilean Corralero ` Other Iberian Breeds (Chile)
+Chilean Horse ` Other Iberian Breeds (Chile)
+Chilote ` Other Pure/Rare Horse Breeds (Chile)
+Chincoteague pony ` North American Pony (U.S.)
+Chinese Guoxia pony ` Asian Pony (China)
+Choctaw (Indian Pony) ` Native North American Breeds
+Cleveland Bay ` Carriage & Driving breeds (England)
+Clydesdale ` Other U.K. draft (Scotland)
+Colonial Spanish Horse ` Other Iberian Breeds (Spain)
+Colorado Ranger ` Native North American Breeds
+Comtois ` French draft
+Connemara pony ` Other U.K. Pony (Ireland)
+Costarricense de Paso ` Other Iberian Breeds (Costa Rica)
+Cretan Horse ` Other Pure/Rare Horse (Crete) 
+Criollo ` Other Iberian Breeds (Argentina)
+Cruzado ` Other Pure/Rare Horse Breeds (Germany)
+Cuban Trotter (aka Criollo de Trote) ` Harness Racing Breeds
+Czech Warmblood ` Other European Warmblood (Czech Republic)
+Dales pony ` Other U.K. Pony (England)
+Danish Warmblood ` Other European Warmblood (Denmark)
+Danubian ` Other Pure/Rare Horse (Bulgaria)
+Darashouri (aka Shirazi) ` Arabian Types
+Dartmoor pony ` Other U.K. Pony (England)
+Deliboz ` Other Pure/Rare Horse (Azerbaijan)
+Djerma ` Other Pure/Rare Horse (Niger/West Africa)
+Dolahest (aka Dole Gudbrandsal & Dole) ` Carriage & Driving (Norway)
+Dole (aka Dole Gudbrandsal & Dolahest) ` Carriage & Driving (Norway) 
+Dole Gudbrandsal (aka Dole & Dolahest)` Carriage & Driving (Norway)
+Dongola ` Other Pure/Rare Horse (West Africa)
+Drum Horse ` Other Pure/Mixed Draft
+Dulmen pony ` European Pony (Germany)
+Dutch Harness Horse (aka Tuigpaard) ` Carriage & Driving (Netherlands)
+Dutch Heavy Draft ` European draft (Netherlands)
+Dutch Warmblood ` Other European Warmblood (Netherlands)
+East Bulgarian ` Part Arabian
+East Fresian ` Carriage & Driving breeds (Germany)
+Egyptian Arabian ` Arabian Types
+Eriskay` Other Pure/Rare Pony (Scotland)
+Estonian Draft ` European draft (Estonia/Europe)
+Estonian Native ` Other Pure/Rare Horse (Estonia/Europe)
+Exmoor pony ` Other U.K. Pony (England)
+Extremeno ` Other Iberian Breeds (Iberian Peninsula)
+Faeros` Other Pure/Rare Pony (Faeroe Islands/Europe)
+Falabella ` Mini Pony
+Fell pony ` Other U.K. Pony (England)
+Finnish Draft ` European draft (Finland)
+Finnish Universal ` Other European Warmblood (Finland)
+Fleuvre (aka Fouta & M’Bayar) ` Other Pure/Rare Pony (Senegal/Africa)
+Flores (aka Timor) ` Other Pure/Rare Pony (Indonesia/Asia)
+Florida Cracker Horse ` Native North American Breeds
+Fouta (aka Fleuvre & M’Bayar) ` Other Pure/Rare Pony (Senegal/Africa)
+Frances`Montagnes (aka Frieberger) ` European draft (Switzerland)
+Frederiksborg ` Other European Warmblood (Denmark)
+French Anglo`Arab ` Part Arabian
+French Saddle Pony ` European pony (France)
+French Trotter ` Harness Racing Breeds (France)
+Fresian ` Carriage & Driving breeds (Netherlands)
+Frieberger (aka Frances`Montagnes) ` European draft (Switzerland)
+Friewalker ` Fresian cross **
+Furioso ` Other Pure/Rare Horse
+Galiceno pony ` South American Pony (Mexico) 
+Galician pony (aka Asturian & Astercon) ` European Pony (Spain)
+Garrano pony ` European Pony (Portugal)
+Gayoe` Other Pure/Rare Pony (Sumatra/Indonesia/Asia)
+Gelderlander ` Carriage & Driving breeds (Netherlands)
+Georgian Grande ` Fresian cross **
+German Heck Horse ` Primitives
+German Riding Pony ` European Pony (Germany)
+German Warmblood ` Other European Warmblood (Germany)
+Gidran Arab ` Arabian
+Gidran Sport Horse ` Other European Warmblood (Hungary)
+Gotland pony (aka Skogruss) ` European Pony (Sweden)
+Groningen ` Carriage & Driving breeds (Netherlands)
+Guangxi` Other Pure/Rare Pony (China)
+Guizhou ` Other Pure/Rare Pony (China)
+Gypsy Cob ` Carriage & Driving breeds (England)
+Gypsy Vanner ` Carriage & Driving breeds (England)
+Hackney Horse ` Carriage & Driving breeds (England)
+Hackney pony ` Other U.K. Pony (England)
+Haflinger pony ` European Pony (Austria)
+Hanoverian ` German Warmblood
+Heihe ` Other Pure/Rare Horse (China)
+Henson ` Other Pure/Rare Horse Breeds (France)
+Hequ ` Other Pure/Rare Horse (China)
+Hessen ` Other Pure/Rare Horse Breeds (German)
+Highland pony ` Other U.K. Pony (Scotland)
+Hirzai ` Other Pure/Rare Horse (Pakistan/Asia)
+Hispano`Arab (aka Peninsula Horse & Spanish Anglo`Arab) ` Other Iberian (Spain) 
+Hokkaido` Other Pure/Rare Pony (Japan)
+Holstein ` German Warmblood
+Hucul pony (aka Carpathian) ` European Pony (Poland)
+Hungarian Warmblood ` Other European Warmblood (Hungary)
+Icelandic pony ` European Pony (Iceland)
+Indian Half`Bred ` Other Pure/Rare Horse (India)
+Iomud ` Other Pure/Mixed Sport Breeds
+Irish (Draught) Sport Horse ` Other European Warmblood (Ireland)
+Irish Draft/Draught ` Other U.K. draft (Ireland)
+Irish Draught (non`Draft) ` Carriage & Driving breeds (Ireland)
+Irish Hunter ` Other European Warmblood (Ireland)
+Irish Warmblood ` Other European Warmblood (Ireland)
+Italian Heavy Draft ` European draft (Italy)
+Java pony (aka Kumingan) ` Asian Pony (Indonesia)
+Jinzhou ` Other Pure/Rare Horse (China)
+Jutland ` European draft (Denmark)
+Kabarda (aka Kabardin) ` Other Pure/Rare Horse (Stravropol/Russia)
+Kabardin (aka Kabarda) ` Other Pure/Rare Horse (Stravropol/Russia)
+Kaimanawa` Other Pure/Rare Pony (New Zealand)
+Karabakh ` Arabian
+Karacabey ` Other Pure/Rare Horse (Turkey)
+Kathiawari ` Part Arabian
+Kazakh pony ` Asian Pony (Kazakhstan)
+Kazakii ` Other Pure/Rare Pony Breeds (Mongolia)
+Kentucky Mountain Saddle Horse ` Native North American Breeds
+Kerry Bog Pony` Other Pure/Rare Pony (Ireland)
+Kiangas ` Primitives
+Kiger Mustang ` Mustangs
+Kinsky ` Other Pure/Rare Horse (Czech Republic)
+Kirdi` Other Pure/Rare Pony (Camaroon/Africa)
+Kisber Felver ` Other European Warmblood (Hungary)
+Kiso ` Other Pure/Rare Horse (Japan)
+Kladruber ` Carriage & Driving Breeds (Czech Republic)
+Klepper (aka Torijski) ` Other Pure Draft Breeds (Estonia)
+Knabstrup ` Other European Warmblood (Denmark)
+Konik pony ` European Pony (Poland)
+Kumingan pony (aka Java) ` Asian Pony (Indonesia)
+Kushum ` Other Pure/Rare Horse (Kazakhstan/Asia)
+Kustanair ` Other Pure/Rare Horse (Kazakhstan/Asia)
+Lac La Croix Indian Pony ` Native North American Breeds
+Landais pony ` European Pony (France)
+Latvian ` Other Pure/Rare Horse (Latvia/Europe)
+Latvian Harness Horse ` European draft (Latvia/Europe)
+Latvian Riding Horse ` Other Rare Breeds
+Lewitzer (aka Lewizschecken) Pony ` European Pony
+Lijiang` Other Pure/Rare Pony (China)
+Lippizzaner ` Spanish Types (Slovenia/Austria)
+Lithuanian Heavy Draft ` European draft (Lithuania)
+Lokai ` Other Pure/Rare Horse (Tajikistan/Asia)
+Losino ` Other Pure/Rare Horse (Burgos/Spain)
+Luisitano ` named breed class (Portugal)
+Lundy pony ` Other U.K. Pony (England)
+Lyngshest (aka Nordlandshest) ` Other Pure/Rare Pony (Norway) 
+M’Bayar (aka Fleuvre & Fouta) ` Other Pure/Rare Pony (Senegal/Africa)
+Malapolski ` Other European Warmblood (Poland)
+Manades ` see Camargue Pony
+Manchurian ` Other Pure/Rare Pony (Siberia)
+Mangalarga Marchador ` Other Iberian Breeds (Brazil)
+Manipuri pony ` Asian Pony (India)
+Maremmana ` Part Arabian
+Marwari ` Part Arabian
+McCurdy Plantation Horse ` Other Pure Gaited
+Mecklenburg ` German Warmblood
+Menorquina ` Other Iberian Breeds (Menorca/Spain)
+Merens pony ` European Pony (France)
+Messara ` Other Pure/Rare Horse (Crete)
+Metis Trotter (aka Russian Trotter) ` Harness Racing Breeds(Russia)
+Misaki ` Other Pure/Rare Pony (Japan)
+Missouri Fox Trotter ` named breed class ` M.F.T.
+Miyako ` Other Pure/Rare Horse (Japan)
+Mongolians ` Primitives
+Montana Traveler ` Native North American Breeds
+Morab ` Part Arabian
+Morgan ` named breed class
+Moriesian ` Fresian cross **
+Moyle ` Native North American Breeds
+Mulassier (aka Poitevin) ` French draft
+Murakozi ` European draft (Hungary)
+Murghese ` Other Pure/Rare Horse (Italy)
+Murinsulan ` Other Pure/Rare Horse Breeds (Croatia)
+Nanfan ` see Hequ
+Napoletano ` Other Pure/Rare Horse Breeds (Italy)
+National Show Horse ` Other Pure Gaited ` N.S.H.
+National Spotted Saddle Horse ` see Spotted Saddle Horse
+New Forest Pony ` Other U.K. Pony (England)
+Newfoundland pony ` North American Pony
+Nez Perce ` Native North American Breeds
+Nokota ` Native North American Breeds
+Noma ` Other Pure/Rare Pony (Japan)
+Nonius ` Other Pure/Rare Horse (Hungary)
+Nooitgedacht ` Other Pure/Rare Pony (South Africa)
+Nordlandshest (aka Lyngshest) ` Other Pure/Rare Pony (Norway)
+Norfolk Roadster ` Other Pure/Rare Horse Breeds
+Noriker ` European draft (Austria)
+Normandy Cob ` French draft
+North American (Bashkir) Curly Horse ` see Bashkir Curly
+North American Single`Footer ` Native North American Breeds
+North American Spotted Haflinger ` North American Ponies 
+North Hester (aka North Swedish Trotter) ` Other Pure/Rare Horse Breeds
+North Swedish Draft ` European draft (Sweden)
+Northlands pony ` European Pony (Norway)
+Norwegian Fjord pony ` European Pony (Norway)
+Novokirghiz ` Other Pure/Rare Horse (Kirghistan/Asia)
+Ob (aka Priob) ` Other Pure/Rare Pony (Siberia)
+Oberlander (aka Noriker) ` European draft (Austria)
+Oldenburg ` German Warmblood 
+Onagers ` Primitives
+Orlov Trotter ` Harness Racing Breeds (Russia)
+Pahlavan ` Other Pure/Rare Horse Breeds (Iran)
+Paint ` named breed class
+Palomino ` Color Breeds/Other Pure Stock
+Pampas Horse ` Other Pure/Rare Horse (Brazil)
+Pantaneiro ` Other Pure/Rare Horse (Brazil)
+Paso Fino ` named breed class
+Peneia pony ` European Pony (Greece)
+Peninsula Horse (aka Spanish Anglo`Arab & Hispano`Arab) ` Other Iberian (Spain)
+Percheron ` French draft
+Persian Arabian ` Arabian
+Peruvian Paso ` named breed class
+Petiso Argentino ` Other Pure/Rare Pony (Argentina)
+Pindos (aka Thessalian) ` Other Pure/Rare Pony (Greece)
+Pintabian ` Part Arabian & Arabian Types
+Pintaloosa ` Color Breeds/Other Pure & Mixed Stock
+Pinto Sporthorse ` Other Sport Breeds
+Pinzgauer (aka Noriker) ` European draft (Austria)
+Pleven ` Part Arabian
+Poitevin (aka Mulassier) ` French draft
+Poney Mousseye ` Other Pure/Rare Pony (Cameroon/Africa)
+Pony of the Americas ` North American Pony (U.S.)
+Posavina ` Other Pure/Rare Horse Breeds (Croatia)
+Pottock pony (aka Basque) ` European Pony (Spain/France)
+PRE (Pura Raza Espanola)` show with Andalusians
+Priob (aka Ob) ` Other Pure/Rare Pony (Siberia)
+Przewalskis ` Primitives
+Qatgani ` Other Pure/Rare Horse (Afghanistan)
+Quaggas ` Primitives
+Quarab ` Mixed Stock Breed
+Quarter Horse ` named breed class
+Quarter Pony ` North American Pony (U.S.)
+Rheinland Pfalz`Saar ` see Zweibrücken
+Rhenish German Coldblood ` European Drafter
+Rhineland (Draft) ` European draft (Germany)
+Rhinelander ` German Warmblood
+Rocky Mountain Horse ` named breed class ` R.M.H.
+Romanian Trotter ` Other Pure/Rare Horse Breeds (Romania)
+Rottaler ` Other Pure/Rare Horse (Bavaria/Europe)
+Russian Don ` Part Arabian
+Russian Heavy Draft ` Russian draft (Ukraine)
+Russian Trotter (aka Métis Trotter)` Harness Racing Breeds
+Sable Island Pony ` North American Pony (Canada)
+Salernitano (aka Salerno) ` Other Pure/Rare Horse (Italy)
+Salerno (aka Salernitano) ` Other Pure/Rare Horse (Italy)
+San Fratello ` Other Pure/Rare Horse (Italy)
+Sandalwood pony ` Asian Pony (Indonesia)
+Sanhi ` Other Pure/Rare Horse (China)
+Sardinian ` Other Pure/Rare Horse (Sardinia/Italy)
+Sardinian pony ` European Pony (Italy)
+Schleswig Heavy Draft ` European Draft (Germany)
+Selle Francais ` Other European Warmblood (France)
+Shackleford Banker Pony ` North American Pony (U.S.)
+Shagya Arab ` Arabian
+Shan pony (aka Burmese) ` Asian Pony (Burma)
+Shetland pony ` Other U.K. Pony (Scotland)
+Shire ` British draft
+Shirazi (aka Darashouri) ` Arabian Types
+Skyros pony ` European Pony (Greece)
+Sokolsky ` European Draft (Poland)
+Sorraia ` Other Iberian Breeds (Portugal)
+Sorraia pony ` European Pony (Portugal)
+Soviet Heavy Draft ` Russian draft (Russia)
+Spanish Anglo`Arab (aka Peninsula Horse & Hispano`Arab) ` Other Iberian (Spain)
+Spanish Barb ` Other Iberian Breeds (Spain)
+Spanish Jennet ` Other Iberian Breeds (Spain)
+Spanish Mustang ` Mustangs
+Spanish Norman ` Other European Warmblood (Spain)
+Spanish Sulpher Horse ` Spanish Types (Spain)
+Spiti (aka Bhutia) pony ` Asian Pony (India)
+Spotted Saddle Horse ` Other Pure Gaited
+Standardbred ` Harness Racing Breeds
+Suffolk Punch ` British draft
+Sugarbush Drafters ` Other Pure Draft
+Sumba (aka Sumbawa) pony ` Asian Pony (Indonesia)
+Sumbawa (aka Sumba) pony ` Asian Pony (Indonesia)
+Swedish Ardennes ` European Draft (Sweden)
+Swedish Warmblood ` Other European Warmblood (Sweden)
+Swiss Warmblood ` Other European Warmblood (Switzerland)
+Syrian pony ` Asian Pony (Syria)
+Taishuh ` Other Pure/Rare Pony (Japan)
+Tarpans ` Primitives
+Tawleed ` Other Pure/Rare Horse (Sudan/Africa)
+Tchernomor (aka Chernomor) ` Other Pure/Rare Horse (Caucasus Mnts/Russia)
+Tennessee Walking Horse ` named breed class ` T.W.H.
+Tennuvian ` Other Pure Gaited
+Tersk ` Arabian
+Thessalian (aka Pindos) ` Other Pure/Rare Pony (Greece)
+Thoroughbred ` named breed class
+Tibetan pony ` Asian Pony (China)
+Tiger Horse ` Other Pure/Rare Horse (Spain)
+Timor (aka Flores) ` Other Pure/Rare Pony (Indonesia/Asia)
+Timor pony ` Asian Pony (Indonesia)
+Tinker Horse (aka Irish Tinker Horse) ` Carriage & Driving (Ireland)
+Tokara ` Other Pure/Rare Pony (Japan)
+Tori ` Other Pure/Rare Horse (Estonia/Europe)
+Toric ` European & Russian draft (Estonia)
+Torijski (aka Klepper) ` Other Pure Draft Breeds
+Trait du Nord ` French draft
+Trakehner ` German Warmblood
+Tuigpaard (aka Dutch Harness Horse) ` Carriage & Driving breeds
+Turkoman ` Other Pure/Rare Horse (Turkmenistan/Asia)
+Ukranian Riding Horse ` Other European Warmblood (Ukraine)
+Unmol ` Other Pure/Rare Horse (Punjab states/India)
+Uzunyayla ` Other Pure/Rare Horse (Turkey)
+Ventasso ` Other Pure/Rare Horse (Italy)
+Viatka pony ` European Pony (Russia)
+Virginia Highlander ` Native North American Breeds
+Vlaamperd ` Other Pure/Rare Horse (South Africa)
+Vladimir Heavy Draft ` Russian draft 
+Waler ` see Australian Waler
+Walkaloosa ` Mixed Gaited Breeds
+Warlander ` Fresian cross **
+Welara pony ` North American Pony (U.S.)
+Westphalian ` German Warmblood
+Wielkopolski ` Other European Warmblood (Poland)
+Wurttemberg ` German Warmblood
+Xilingol ` Other Pure/Rare Horse (Mongolia/Asia)
+Yakut ` Other Pure/Rare Pony (Siberia)
+Yangi ` Other Pure/Rare Pony (China)
+Yili ` Other Pure/Rare Horse (China)
+Yonaguni ` Other Pure/Rare Pony (Japan)
+Zangersheide ` Other European Warmblood (Belgium)
+Zaniskari ` Other Pure/Rare Pony (India)
+Zapatero ` Other Iberian Breeds (Spain)
+Zemaituka pony ` European Pony (Lithuania)
+Zhemaichu (aka Zhumdka) ` Other Pure/Rare Horse (Lithuania)
+Zhumdka (aka Zhemaichu) ` Other Pure/Rare Horse (Lithuania)
+Zweibrücker ` German Warmblood
