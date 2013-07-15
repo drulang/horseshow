@@ -8,10 +8,11 @@ in_file = sys.argv[1]
 in_file = open(in_file,'r')
 
 div_cnt = 0 
-sec_cnt = 0
+sec_cnt = 11
+id_cnt = 0
 
 def get_query(div_id, div_typ, primary_div_id, name):
-    query = """insert into frithi_HORSESHOW.DIVISION(ID, SHOW_ID,DIVISION_TYPE_ID,PRIMARY_DIVISION_ID,NAME,ADD_DATE) values (%s,2,%s,%s, '%s', NOW());""" % (div_id, div_typ, primary_div_id, name)
+    query = """insert into horseshow.DIVISION(ID, SHOW_ID,DIVISION_TYPE_ID,PRIMARY_DIVISION_ID,NAME,ADD_DATE) values (%s,2,%s,%s, '%s', NOW());""" % (div_id, div_typ, primary_div_id, name)
     return query
 
 for line in in_file:
