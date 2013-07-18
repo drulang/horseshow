@@ -29,6 +29,7 @@ for line in f:
     #
     if line.find("NUMBER") != -1:
         if ex_nbr != None:
+            print "Previous Ex:",people[-1]
             raise Exception("ex_nbr was not cleared. At line",line)
 
         parts = line.split(":")
@@ -56,16 +57,15 @@ for line in f:
         mo_nbr = line.strip()
     elif mo_nbr != None and mo_name == None:
         mo_name = line.strip()
-        print mo_name
     elif mo_name != None and mo_breed == None:
         mo_breed = line.strip()
     elif mo_breed != None and mo_gender == None:
         mo_gender = line.strip()
     elif mo_gender != None and mo_div == None:
         mo_div = line.strip()
-    elif mo_div != None:
+
         #Finished all parts of model
-        models.append((mo_nbr,mo_name,mo_breed,mo_gender,mo_div))
+        models.append((mo_nbr[0:3],mo_nbr,mo_name,mo_breed,mo_gender,mo_div))
 
         mo_nbr = None
         mo_name = None
@@ -73,6 +73,16 @@ for line in f:
         mo_gender = None
         mo_div = None
 
-for m in models:
-    print m
+#Updaet initials
+for p in people:
+   ex_nbr = p[0]
+   ex_init = p[1]
 
+   query = """insert into PERSON (NICKNAME) values ('%s') where ID = %s""" % p 
+    
+
+for m in models:
+    query = """insert into PERSON_MODEL (PERSON_ID, SHOW_MODEL_ID, SHOW_MODEL_NAME, SHOW_MODEL_BREED, SHOW_MODEL_GENDER) values (%s,'%s','%s','%s','%s','%s')""" % m
+
+
+    print query
