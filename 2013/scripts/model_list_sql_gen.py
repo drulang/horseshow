@@ -40,12 +40,13 @@ for line in f:
         if ex_nbr == None:
             raise Exception("Error processing initials:",ex_init)
         else:
-            people.append((ex_nbr,ex_init))
+            parts = line.split(":")
+            ex_init = parts[-1].strip()
+
+            people.append((ex_init,ex_nbr))
             ex_nbr = None
             ex_init = None
 
-        parts = line.split(":")
-        ex_init = parts[-1].strip()
 
         continue
     #
@@ -56,7 +57,7 @@ for line in f:
             raise Exception("mo_nbr is not clear at",line)
         mo_nbr = line.strip()
     elif mo_nbr != None and mo_name == None:
-        mo_name = line.strip()
+        mo_name = line.strip().replace("'","")
     elif mo_name != None and mo_breed == None:
         mo_breed = line.strip()
     elif mo_breed != None and mo_gender == None:
@@ -78,11 +79,12 @@ for p in people:
    ex_nbr = p[0]
    ex_init = p[1]
 
-   query = """insert into PERSON (NICKNAME) values ('%s') where ID = %s""" % p 
+   query = """update PERSON set NICKNAME = '%s' where ID = %s;""" % p 
+   print query
     
 
 for m in models:
-    query = """insert into PERSON_MODEL (PERSON_ID, SHOW_MODEL_ID, SHOW_MODEL_NAME, SHOW_MODEL_BREED, SHOW_MODEL_GENDER) values (%s,'%s','%s','%s','%s','%s')""" % m
+    query = """insert into PERSON_MODEL (PERSON_ID, SHOW_MODEL_ID, SHOW_MODEL_NAME, SHOW_MODEL_BREED, SHOW_MODEL_GENDER, USER_FIELD_1) values (%s,'%s','%s','%s','%s','%s');""" % m
 
 
     print query
