@@ -150,6 +150,7 @@
             '
                 <h3>Quick Link</h3>
                 <ul class="side_menu">
+                    <li><a href="show_manager.php">Show Manager</a></li>
                     <li><a href="create_user.php">Create an Account</a></li>
                     <li><a href="index.php">Register Your Horses</a></li>
                     <li><a href="comingsoon.php">Become a Show Admin</a></li>
