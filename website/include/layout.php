@@ -295,10 +295,7 @@
 
     function printUserProfileSideBar()
     {       
-            if($_SESSION['IS_SHOW_MANAGER'] == TRUE)
-            {
-                $menu .= returnShowManagerSideBar();
-            }
+            $menu .= returnShowManagerSideBar();
                 
             $menu .=
             '   <h5>Horseshow</h5>
